@@ -6,7 +6,6 @@
 - Maksymilian Gaszewski
 - Bernard Kałużyński
 - Sergiusz Brasławski
-- Vjasieg
 ## Funkcje 
 
 - Wyświetlenie swoich informacji
