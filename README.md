@@ -34,7 +34,7 @@ Paszport Szczepionkowy bedzie dostępny do pobrania na
 wszystkich urządzeniach z systemem Android oraz IOS.
 
 ## Licencja
- ###### Open Source
+  **Open Source**
 
 ## Diagram Wymagań
 #
