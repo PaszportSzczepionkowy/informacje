@@ -39,5 +39,6 @@ wszystkich urządzeniach z systemem Android oraz IOS.
 ## Licencja
  ###### Open Source
 
+## Diagram Wymagań
 #
 ![wymagania projektu](https://github.com/PaszportSzczepionkowy/informacje/blob/main/Diagram%20wymaga%C5%84.png?raw=true)
