@@ -1,15 +1,6 @@
 # Paszport Szczepionkowy
 ## Aplikacja służąca do identyfikowania zaszczepionych osób.
 
-### Twórcy:
-- Wiktoria Janaszek
-- Aleks Zych
-- Jan Praxmajer
-- Maksymilian Gaszewski
-- Sergiusz Brasławski
-- Bernard Kałużyński
-
-
 ## Funkcje 
 
 - Wyświetlenie swoich informacji
