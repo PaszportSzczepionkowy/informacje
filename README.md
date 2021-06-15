@@ -3,7 +3,7 @@
 ## Twórcy:
 - Wiktoria Janaszek
 - Aleks Zych
-- Maks Gaszewski
+- Maksymilian Gaszewski
 - Bernard Kałużyński
 - Sergiusz Brasławski
 - Vjasieg
